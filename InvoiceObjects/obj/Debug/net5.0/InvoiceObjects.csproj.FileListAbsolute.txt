@@ -1,0 +1,16 @@
+C:\Users\Yusuf\OneDrive\BADev\Week7\InvoiceObjects\obj\Debug\net5.0\InvoiceObjects.csproj.AssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADev\Week7\InvoiceObjects\obj\Debug\net5.0\InvoiceObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\OneDrive\BADev\Week7\InvoiceObjects\obj\Debug\net5.0\InvoiceObjects.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week7\InvoiceObjects\obj\Debug\net5.0\InvoiceObjects.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\BADev\Week7\InvoiceObjects\obj\Debug\net5.0\InvoiceObjects.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week7\InvoiceObjects\bin\Debug\net5.0\InvoiceObjects.exe
+C:\Users\Yusuf\OneDrive\BADev\Week7\InvoiceObjects\bin\Debug\net5.0\InvoiceObjects.deps.json
+C:\Users\Yusuf\OneDrive\BADev\Week7\InvoiceObjects\bin\Debug\net5.0\InvoiceObjects.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\BADev\Week7\InvoiceObjects\bin\Debug\net5.0\InvoiceObjects.runtimeconfig.dev.json
+C:\Users\Yusuf\OneDrive\BADev\Week7\InvoiceObjects\bin\Debug\net5.0\InvoiceObjects.dll
+C:\Users\Yusuf\OneDrive\BADev\Week7\InvoiceObjects\bin\Debug\net5.0\ref\InvoiceObjects.dll
+C:\Users\Yusuf\OneDrive\BADev\Week7\InvoiceObjects\bin\Debug\net5.0\InvoiceObjects.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week7\InvoiceObjects\obj\Debug\net5.0\InvoiceObjects.dll
+C:\Users\Yusuf\OneDrive\BADev\Week7\InvoiceObjects\obj\Debug\net5.0\ref\InvoiceObjects.dll
+C:\Users\Yusuf\OneDrive\BADev\Week7\InvoiceObjects\obj\Debug\net5.0\InvoiceObjects.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week7\InvoiceObjects\obj\Debug\net5.0\InvoiceObjects.genruntimeconfig.cache
